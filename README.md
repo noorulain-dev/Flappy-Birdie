@@ -5,6 +5,8 @@ Program features:
 Some tweaks in the game includes changing the bird in intervals. When the bird score is an even number, the bird is yellow. This bird updates to red when the bird score is an odd number.
 
 Output:
+
+
 ![Screenshot (397)](https://user-images.githubusercontent.com/80438950/198382136-802250f4-8c3b-45fc-982f-37fd480c2eb0.png)
 
 
